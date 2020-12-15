@@ -1,0 +1,3 @@
+C:/lab2_avs_5sem/cmake-build-debug/CMakeFiles/lab2_avs_5sem.dir
+C:/lab2_avs_5sem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/lab2_avs_5sem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
