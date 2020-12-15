@@ -1,0 +1,4 @@
+﻿  avs5_lab3.cpp
+C:\Users\ivanguk10\source\repos\avs5_lab3\avs5_lab3\avs5_lab3.cpp(18,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ivanguk10\source\repos\avs5_lab3\avs5_lab3\avs5_lab3.cpp(30,9): warning C4068: неизвестная прагма "opm"
+  avs5_lab3.vcxproj -> C:\Users\ivanguk10\source\repos\avs5_lab3\Debug\avs5_lab3.exe
