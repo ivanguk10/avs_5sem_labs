@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  avslab1_3k.cpp
+c:\users\ivanguk10\source\repos\avslab1_3k\avslab1_3k\avslab1_3k.cpp(33): warning C4405: mm0: идентификатор является зарезервированным словом
+c:\users\ivanguk10\source\repos\avslab1_3k\avslab1_3k\avslab1_3k.cpp(33): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "mm0"
+c:\users\ivanguk10\source\repos\avslab1_3k\avslab1_3k\avslab1_3k.cpp(37): warning C4405: mm2: идентификатор является зарезервированным словом
+c:\users\ivanguk10\source\repos\avslab1_3k\avslab1_3k\avslab1_3k.cpp(37): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "mm2"
+c:\users\ivanguk10\source\repos\avslab1_3k\avslab1_3k\avslab1_3k.cpp(38): warning C4405: mm2: идентификатор является зарезервированным словом
+c:\users\ivanguk10\source\repos\avslab1_3k\avslab1_3k\avslab1_3k.cpp(38): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "mm2"
+c:\users\ivanguk10\source\repos\avslab1_3k\avslab1_3k\avslab1_3k.cpp(44): warning C4405: mm2: идентификатор является зарезервированным словом
+c:\users\ivanguk10\source\repos\avslab1_3k\avslab1_3k\avslab1_3k.cpp(44): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "mm2"
+c:\users\ivanguk10\source\repos\avslab1_3k\avslab1_3k\avslab1_3k.cpp(45): warning C4405: mm0: идентификатор является зарезервированным словом
+c:\users\ivanguk10\source\repos\avslab1_3k\avslab1_3k\avslab1_3k.cpp(45): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "mm0"
+c:\users\ivanguk10\source\repos\avslab1_3k\avslab1_3k\avslab1_3k.cpp(50): warning C4405: mm0: идентификатор является зарезервированным словом
+c:\users\ivanguk10\source\repos\avslab1_3k\avslab1_3k\avslab1_3k.cpp(50): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "mm0"
